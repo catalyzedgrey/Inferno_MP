@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameForm.framework.KeyInput">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAAAgAAAAAAAAAAIAAAAAAAAAAAAAIAEAAAAAAAAA=</HashCode>
+      <FileName>framework\KeyInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.framework.ObjectID">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAEAAAAAAAQAAAAASAAAAEAAAAAAAAgQAAIAA=</HashCode>
+      <FileName>framework\ObjectID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.framework.SpriteSheet">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>framework\SpriteSheet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.framework.Texture">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAABAAAAQAAAAAAAAAAAAAAAAAQAgBAhAAkAAAAABAA=</HashCode>
+      <FileName>framework\Texture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.objects.Block">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABACAAAAAAAAAAAAIAAAAAAAQABAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>objects\Block.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.objects.Circle">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAABAAAAAIAAAAASAAAAAAABAAAAAAA=</HashCode>
+      <FileName>objects\Boulder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.objects.Boulder">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABACACAAAAAAAAACBAAAQIAAAAAAACAAAAAgAAQAAA=</HashCode>
+      <FileName>objects\Boulder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.objects.Flag">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABACACAAAAAAAAACAAAAQIAAAAAAAAAAEAAAAAQAAA=</HashCode>
+      <FileName>objects\Flag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.objects.GameObject">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgBACBAAAAAQQAAAAAAIAAAAABAAAAgAAADgCAAQ5gA=</HashCode>
+      <FileName>objects\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.objects.Player">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABADAgIAIAQAAYAQIgAQIIAAAAAIAAJAAAwBABQAAA=</HashCode>
+      <FileName>objects\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.objects.Projectile">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABACAAAAAAAAAQAQIAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>objects\Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.objects.Trap">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABACACAAAEAAAQASIAAAQIIAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>objects\Trap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.Program">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.Window">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAACCAAACAAAAAAAIgAAAAAAAAIA=</HashCode>
+      <FileName>window\Window.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.Properties.Resources">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.Properties.Settings">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.window.Animation">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAABAAAAAAgEAAACQAAAAAAQQABAAA=</HashCode>
+      <FileName>window\Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.window.Camera">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAYAA=</HashCode>
+      <FileName>window\Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.window.Utility">
+    <Position X="16" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAgAAIAAAAAAAACAAAAA=</HashCode>
+      <FileName>window\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.window.Game">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="GameForm.window.Game.STATE" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>window\Game.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AACABAiDAAIAABEiCIAAAQoAQAwgAgIAQEAgEABEAQQ=</HashCode>
+      <FileName>window\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.window.Handler">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAAAQAAAAAAAAAAEBAAAAAAAAAAIAgAAAAAQAAA=</HashCode>
+      <FileName>window\Handler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameForm.window.Menu">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAACAgAAQIAAAAACAAQAAAAAAAQAoA=</HashCode>
+      <FileName>window\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
